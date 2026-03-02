@@ -1,5 +1,15 @@
 # 💫 About Me:
-🙋‍♂️ Amrendra (Amren)<br>Senior Full Stack & AI Engineer | CMS & Mobile Expert<br><br>🎖️ 7+ Years of Industry Experience<br>🏆 Top Rated Freelancer | 100+ Projects Delivered<br><br>With over 7 years of hands-on experience in web, CMS, AI, and mobile development, I help businesses transform ideas into scalable, high-performance digital products. From startups to growing enterprises, I build solutions that are secure, user-friendly, and conversion-focused.<br><br>I specialize in full-cycle development — from strategy and architecture to deployment and long-term support.<br><br>💻 Full Stack & Web Expertise<br><br>I design and develop custom websites and web applications from scratch, ensuring performance, scalability, and clean architecture.<br><br>Core Technologies<br><br>JavaScript (React, Next.js, Vue, Angular), Node.js, PHP (Laravel, Yii, CodeIgniter),<br>MongoDB, MySQL, PostgreSQL, GraphQL, REST APIs<br>HTML5, CSS3, SCSS, Bootstrap, Tailwind<br><br>What I Deliver<br><br>✔ Custom Web Applications<br>✔ E-Commerce Platforms<br>✔ Payment Gateway & API Integrations<br>✔ PSD/Figma to Website Conversion<br>✔ QA Testing & Performance Optimization<br><br>🔹 CMS Specialist (Shopify, WordPress & More)<br><br>Trusted CMS Expert with deep experience in:<br><br>• Shopify Store Setup & Theme Customization<br>• WordPress & WooCommerce Development<br>• Custom Plugin & Theme Development<br>• Store Migration & Data Transfers<br>• SEO Optimization & Core Web Vitals Improvement<br><br>I build fast, SEO-ready, and mobile-optimized websites designed to convert visitors into customers.<br><br>📱 Mobile App Development Expert<br><br>End-to-end mobile app development for iOS and Android using:<br><br>Flutter, React Native, Swift, Kotlin<br>Firebase, AWS, Node.js, Laravel<br>MongoDB, PostgreSQL, MySQL<br><br>Mobile Services<br><br>✔ Cross-Platform App Development<br>✔ AI-Powered Features & Smart Integrations<br>✔ Payment Gateway Integration<br>✔ App Store & Play Store Deployment<br>✔ Ongoing Maintenance & Support<br><br>💡 Why Work With Me?<br><br>✅ Clean, scalable, production-ready code<br>✅ Deadline-driven execution<br>✅ Transparent communication<br>✅ Fast response time<br>✅ Long-term technical partnership<br><br>🚀 Let’s Build Something Powerful Together<br><br>Whether you're launching a startup, scaling an e-commerce store, or building an AI-powered mobile app — I bring the technical expertise and strategic thinking to turn your vision into reality.<br><br>📩 Fast replies. Reliable delivery. High-quality results.
+🙋‍♂️🙋‍♂️ Amrendra (Amren)
+🚀 Senior Full Stack & AI Engineer | 🧠 7+ Years Experience
+🏆 Top Rated Freelancer | 💯 100+ Successful Projects
+
+💻 I craft powerful, scalable web & 📱 mobile applications that drive real business growth.
+⚡ Expert in React, Node.js, Laravel, Flutter & 🤖 AI-powered solutions.
+🛍️ Specialist in Shopify, WordPress & Custom CMS development.
+💳 E-commerce, API integrations & secure payment systems expert.
+🎯 Clean code | 🎨 Modern UI/UX | 🚀 Performance-first architecture.
+🔄 From concept to launch — seamless end-to-end execution.
+✨ Let’s build something exceptional together!
 
 
 # 💻 Tech Stack:
