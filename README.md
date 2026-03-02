@@ -1,15 +1,15 @@
-# 💫 About Me:
-🙋‍♂️🙋‍♂️ Amrendra (Amren)
-🚀 Senior Full Stack & AI Engineer | 🧠 7+ Years Experience
-🏆 Top Rated Freelancer | 💯 100+ Successful Projects
+# 💫 About Me:<br>
+🙋‍♂️🙋‍♂️ Amrendra (Amren)<br>
+🚀 Senior Full Stack & AI Engineer | 🧠 7+ Years Experience <br>
+🏆 Top Rated Freelancer | 💯 100+ Successful Projects <br>
 
-💻 I craft powerful, scalable web & 📱 mobile applications that drive real business growth.
-⚡ Expert in React, Node.js, Laravel, Flutter & 🤖 AI-powered solutions.
-🛍️ Specialist in Shopify, WordPress & Custom CMS development.
-💳 E-commerce, API integrations & secure payment systems expert.
-🎯 Clean code | 🎨 Modern UI/UX | 🚀 Performance-first architecture.
-🔄 From concept to launch — seamless end-to-end execution.
-✨ Let’s build something exceptional together!
+💻 I craft powerful, scalable web & 📱 mobile applications that drive real business growth.<br>
+⚡ Expert in React, Node.js, Laravel, Flutter & 🤖 AI-powered solutions.<br>
+🛍️ Specialist in Shopify, WordPress & Custom CMS development.<br>
+💳 E-commerce, API integrations & secure payment systems expert.<br>
+🎯 Clean code | 🎨 Modern UI/UX | 🚀 Performance-first architecture.<br>
+🔄 From concept to launch — seamless end-to-end execution.<br>
+✨ Let’s build something exceptional together!<br>
 
 
 # 💻 Tech Stack:
