@@ -1,5 +1,4 @@
-# 💫 About Me:<br>
-🙋‍♂️🙋‍♂️ Amrendra (Amren)<br>
+# 💫Amrendra Here (Alias: Amren)🙋‍♂️ <br>
 🚀 Senior Full Stack & AI Engineer | 🧠 7+ Years Experience <br>
 🏆 Top Rated Freelancer | 💯 100+ Successful Projects <br>
 
